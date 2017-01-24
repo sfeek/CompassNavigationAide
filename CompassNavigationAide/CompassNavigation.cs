@@ -167,9 +167,16 @@ namespace CompassNavigationAide
         // Send waypoints to the printer
         private void btnPrint_Click(object sender, EventArgs e)
         {
-            PrintDocument printDocument = new PrintDocument();
-            printDocument.PrintPage += PrintDocumentOnPrintPage;
-            printDocument.Print();
+            try
+            {
+                PrintDocument printDocument = new PrintDocument();
+                printDocument.PrintPage += PrintDocumentOnPrintPage;
+                printDocument.Print();
+            }
+            catch
+            {
+                MessageBox.Show("Error Printing or Printer not available!");
+            }
         }
     }
 }

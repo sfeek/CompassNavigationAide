@@ -1,0 +1,13 @@
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\bin\Release\CompassNavigationAide.exe.config
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\bin\Release\CompassNavigationAide.exe.manifest
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\bin\Release\CompassNavigationAide.application
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\bin\Release\CompassNavigationAide.exe
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\bin\Release\CompassNavigationAide.pdb
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.CompassNavigation.resources
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.Properties.Resources.resources
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.csproj.GenerateResource.Cache
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.exe.manifest
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.application
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.exe
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.pdb
+C:\SourceCode\CompassNavigationAide\CompassNavigationAide\obj\Release\CompassNavigationAide.csprojResolveAssemblyReference.cache
