@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompassNavigationAide.exe" size="215536">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CompassNavigationAide.exe" size="218096">
       <assemblyIdentity name="CompassNavigationAide" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>EaCfrfXJomhl+xJhEeZ7F72D0rBO2spiCNxLGuRbGTA=</dsig:DigestValue>
+        <dsig:DigestValue>QXpPs8msCdBnTWVis5fsfsGvfheAP2L8sruLGtNFqWc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
